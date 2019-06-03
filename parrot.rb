@@ -1,3 +1,3 @@
-def parrot(sound = "Squawk!")
-  return "#{sound}"
+def parrot(sound = "Squawk!", phrase = "Pretty Bird!")
+  return "#{sound}" "#{phrase}"
 end
